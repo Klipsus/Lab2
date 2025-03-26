@@ -18,16 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Zadanie1.cs",
               "DocumentMoniker": "C:\\Users\\Kacper\\source\\repos\\LABY2\\LABY2\\Zadanie1.cs",
               "RelativeDocumentMoniker": "LABY2\\Zadanie1.cs",
-              "ToolTip": "C:\\Users\\Kacper\\source\\repos\\LABY2\\LABY2\\Zadanie1.cs*",
-              "RelativeToolTip": "LABY2\\Zadanie1.cs*",
+              "ToolTip": "C:\\Users\\Kacper\\source\\repos\\LABY2\\LABY2\\Zadanie1.cs",
+              "RelativeToolTip": "LABY2\\Zadanie1.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAgwB0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T18:54:01.087Z",
@@ -41,7 +45,7 @@
               "RelativeDocumentMoniker": "LABY2\\Program.cs",
               "ToolTip": "C:\\Users\\Kacper\\source\\repos\\LABY2\\LABY2\\Program.cs",
               "RelativeToolTip": "LABY2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T18:44:20.156Z",
               "EditorCaption": ""
