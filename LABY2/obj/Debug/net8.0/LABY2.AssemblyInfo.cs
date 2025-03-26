@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LABY2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4866d16b8e6d97cb7dff6626bde34f81b3f57733")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4e49b3dc0b3aa4491a62ae01c89563459a20a80")]
 [assembly: System.Reflection.AssemblyProductAttribute("LABY2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LABY2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

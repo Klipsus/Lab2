@@ -21,7 +21,24 @@ public class Zad2
 		Console.WriteLine($"Średnia liczb tablicy to {z.Average()}");
 		Console.WriteLine($"Największa wartość z tablicy {z.Max()}");
 		Console.WriteLine($"Najmniejsza wartość z tablicy to {z.Min()}");
+		List<double> higher_than_avg = new List<double>();
+		foreach (double i in z) { 
+		if(i>z.Average()) higher_than_avg.Add(i);
+		}
+		Console.WriteLine("Wartości wyższe od średniej");
+        Console.WriteLine(string.Join(", ", higher_than_avg));
+        var powtorzenia = z.GroupBy(x => x).Select(g => new { Wartosc = g.Key, Licznik = g.Count() });
 
+        Console.WriteLine("Powtarzające się wartości:");
+        foreach (var el in powtorzenia)
+        {
+            Console.WriteLine($"Wartość {el.Wartosc} występuje {el.Licznik} razy");
+        }
+        double srednia = z.Average();
+        double wariancja = z.Select(x => Math.Pow(x - srednia, 2)).Average();
+        double odchylenie = Math.Sqrt(wariancja);
+
+        Console.WriteLine($"Odchylenie standardowe: {odchylenie}");
 
 
     }
