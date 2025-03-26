@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\LABY2\LABY2\bin\Debug\net8.0\LABY2.exe
+C:\Users\Kacper\source\repos\LABY2\LABY2\bin\Debug\net8.0\LABY2.deps.json
+C:\Users\Kacper\source\repos\LABY2\LABY2\bin\Debug\net8.0\LABY2.runtimeconfig.json
+C:\Users\Kacper\source\repos\LABY2\LABY2\bin\Debug\net8.0\LABY2.dll
+C:\Users\Kacper\source\repos\LABY2\LABY2\bin\Debug\net8.0\LABY2.pdb
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\LABY2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\LABY2.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\LABY2.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\LABY2.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\LABY2.sourcelink.json
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\LABY2.dll
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\refint\LABY2.dll
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\LABY2.pdb
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\LABY2.genruntimeconfig.cache
+C:\Users\Kacper\source\repos\LABY2\LABY2\obj\Debug\net8.0\ref\LABY2.dll
