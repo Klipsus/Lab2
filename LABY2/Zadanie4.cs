@@ -3,6 +3,14 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
+//Zadanie4
+//Napisz program, który przeanalizuje tekst wprowadzony przez użytkownika
+//Program powinien:
+//Poprosić użytkownika o wprowadzenie jednego ciągu tekstowego (np. zdania).
+//Zliczyć liczbę wystąpień każdego znaku w tekście.
+//Zliczyć liczbę wystąpień każdego słowa.
+//Wypisać najczęściej występujący znak.
+//Wypisać najczęściej występujące słowo.
 public class Zad4
 {
     public static void Zadanie4()

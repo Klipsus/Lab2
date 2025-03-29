@@ -7,7 +7,7 @@
             //Zad1.Zadanie1();
             //Zad2.Zadanie2();
             //Zad3.Zadanie3();
-            Zad4.Zadanie4();
+            //Zad4.Zadanie4();
         }
     }
 }
